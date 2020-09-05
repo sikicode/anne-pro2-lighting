@@ -1,4 +1,12 @@
 # anne-pro-lighting
+A repo of lighting profiles for Anne Pro II RGB keyboard.
+
+How to use:
+1. Clone the repo locally.
+2. Import JSON files to your version of Obinskit Starter.
+3. Enjoy.
+
+## Previews
 ### ash && daylight && ice pink
 These are all-key lighting profiles.
 ### monet sunrise
