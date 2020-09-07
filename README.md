@@ -10,4 +10,6 @@ How to use:
 ### ash && daylight && ice pink
 These are all-key lighting profiles.
 ### monet sunrise
-![monet sunrise preview](https://user-images.githubusercontent.com/19824126/92312350-ca332c80-ef8d-11ea-8790-da5191e7c24a.png)
+![preview](https://user-images.githubusercontent.com/19824126/92312350-ca332c80-ef8d-11ea-8790-da5191e7c24a.png)
+### homer G.S.and Sloop
+![preview](https://user-images.githubusercontent.com/19824126/92419761-6a7b8380-f13d-11ea-8df2-736df35f5490.png)
