@@ -7,12 +7,13 @@ How to use:
 3. Enjoy.
 
 ## Previews
-### ash && daylight && ice pink
+### Ash && Daylight && Ice Pink
 These are all-key lighting profiles.
-### monet sunrise
+### Sunrise
 ![preview](https://user-images.githubusercontent.com/19824126/92312350-ca332c80-ef8d-11ea-8790-da5191e7c24a.png)
-### homer G.S.and Sloop
+### G.S.and Sloop
 ![preview](https://user-images.githubusercontent.com/19824126/92419761-6a7b8380-f13d-11ea-8df2-736df35f5490.png)
-### homer Girl on Swing2
+### Girl on Swing2
 ![preview](https://user-images.githubusercontent.com/19824126/92468883-df80a480-f1a1-11ea-93e7-d14aec3d5c35.png)
+### Prout's Neck
 
