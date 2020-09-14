@@ -21,3 +21,5 @@ These are all-key lighting profiles.
 ![preview](https://user-images.githubusercontent.com/19824126/92805827-6fcc0e80-f387-11ea-9dc2-20ea786edea0.png)
 ### Four Leaf Clover
 ![preview](https://user-images.githubusercontent.com/19824126/92922533-ffaf9e00-f403-11ea-9315-8c98c8015d40.png)
+### Yacht in a Cove
+![preview](https://user-images.githubusercontent.com/19824126/93033124-df99fd80-f602-11ea-9136-5ac4fa69c564.png)
