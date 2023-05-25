@@ -1,4 +1,4 @@
-# anne-pro-lighting
+# Anne Pro Keyboard Lighting Archive
 A repo of lighting profiles for Anne Pro II RGB keyboard.
 
 How to use:
